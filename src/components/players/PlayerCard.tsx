@@ -1,7 +1,35 @@
-const PlayerCard = ({ player }: { player: IPlayer }) => {
+import { useState, type Dispatch, type SetStateAction } from "react";
+
+import type { IPlayer } from "../../types/playerType";
+import { toast } from "react-toastify";
+
+interface IPlayerCardProps {
+  player: IPlayer;
+  coin: number;
+  setCoin: Dispatch<SetStateAction<number>>;
+}
+
+const PlayerCard = ({
+  player,
+  coin,
+  setCoin,
+}: IPlayerCardProps) => {
+  const [isSelected, SetIsSelected] = useState(false);
+
+  const handleSelectPlayer = () => {
+    if (coin < player.price) {
+      toast.error("Not enough coins!");
+      return;
+    } else{
+      toast.success(`${player.playerName} is purchased sucessfully!`);
+    }
+    SetIsSelected(true);
+    setCoin((prevCoin) => prevCoin - player.price);
+  };
+
   return (
     <div className="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-lg transition duration-300 hover:-translate-y-2 hover:shadow-2xl">
-      
+
       {/* Image */}
       <div className="relative aspect-[3/2] overflow-hidden">
         <img
@@ -23,6 +51,7 @@ const PlayerCard = ({ player }: { player: IPlayer }) => {
         </h2>
 
         <div className="flex items-center justify-between">
+
           <span className="text-sm font-medium text-slate-500">
             🏴 {player.origin}
           </span>
@@ -30,6 +59,7 @@ const PlayerCard = ({ player }: { player: IPlayer }) => {
           <span className="rounded-lg bg-green-50 px-3 py-1 text-sm font-bold text-green-600">
             ${player.price}
           </span>
+
         </div>
 
         <div className="my-5 h-px bg-slate-200" />
@@ -39,6 +69,7 @@ const PlayerCard = ({ player }: { player: IPlayer }) => {
         </p>
 
         <div className="flex justify-between gap-2">
+
           <span className="rounded-lg bg-blue-50 px-3 py-2 text-xs font-semibold text-blue-600">
             {player.battingStyle}
           </span>
@@ -46,10 +77,19 @@ const PlayerCard = ({ player }: { player: IPlayer }) => {
           <span className="rounded-lg bg-slate-100 px-3 py-2 text-xs font-semibold text-slate-600">
             {player.bowlingStyle}
           </span>
+
         </div>
 
-        <button className="mt-5 w-full rounded-xl bg-blue-600 px-4 py-3 font-bold text-white transition duration-300 hover:bg-blue-700 hover:shadow-lg">
-          Choose Player →
+        <button
+          onClick={handleSelectPlayer}
+          disabled={isSelected}
+          className={`mt-5 w-full rounded-xl px-4 py-3 font-bold text-white transition duration-300 ${
+            isSelected
+              ? "cursor-not-allowed bg-gray-400"
+              : "bg-blue-600 hover:bg-blue-700 hover:shadow-lg"
+          }`}
+        >
+          {isSelected ? "Selected" : "Choose Player"}
         </button>
 
       </div>
