@@ -62,7 +62,7 @@ const Footer = () => {
       <div className="flex flex-col items-center mt-10">
         <img src={Logo} alt="Logo" className="h-20 w-auto mb-4" />
         <p className="text-xs text-slate-500">
-          © 2024 Your Company. All Rights Reserved.
+          © github.com/junayedhasan302 | All Rights Reserved.
         </p>
       </div>
     </footer>

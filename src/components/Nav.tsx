@@ -9,7 +9,7 @@ interface NavProps {
 const Nav = ({ coin }: NavProps) => {
   // STEP 1: Nav only ever reads `coin` — it never writes to it.
   return (
-    <nav className="bg-white border-b border-slate-100 sticky top-0 z-50">
+    <nav className="bg-[#9ae600] border-b border-slate-100 sticky top-0 z-50">
       {/* STEP 2: Container handles the max-width + padding — no
           bespoke spacing classes here anymore. */}
       <Container className="flex justify-between items-center py-4">

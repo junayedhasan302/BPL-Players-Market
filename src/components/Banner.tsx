@@ -19,7 +19,7 @@ const Banner = ({ onClaimCredit }: BannerProps) => {
         src={BgShadow}
         alt=""
         aria-hidden="true"
-        className="absolute inset-0 w-full h-full object-cover -z-10"
+        className="absolute inset-0 w-full h-full object-cover -z-1 bg-[#ca845f36]"
       />
 
       {/* Foreground illustration */}
@@ -29,17 +29,17 @@ const Banner = ({ onClaimCredit }: BannerProps) => {
         className="w-40 md:w-56 h-auto mb-4"
       />
 
-      <h1 className="text-white text-3xl md:text-5xl font-extrabold max-w-2xl">
+      <h1 className="text-[#436c33] text-3xl md:text-5xl font-extrabold max-w-2xl">
         Assemble Your Ultimate Dream 11 Cricket Team
       </h1>
 
-      <p className="text-slate-300 mt-3 mb-6">
-        Beyond Boundaries, Beyond Limits
+      <p className="text-[#969bf4] mt-3 mb-6">
+        <code>Beyond Boundaries, Beyond Limits</code>
       </p>
 
       <button
         onClick={onClaimCredit}
-        className="bg-gradient-to-r from-pink-400 to-orange-300 text-slate-900 font-bold px-6 py-3 rounded-xl hover:opacity-90 transition"
+        className="bg-gradient-to-r from-pink-400 to-orange-300 text-slate-900 font-bold px-6 py-3 rounded-xl hover:opacity-90 transition -mt-4"
       >
         Claim Free Credit
       </button>

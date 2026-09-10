@@ -1,160 +1,7 @@
 [
     {
-    "playerName": "Virat Kohli",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Virat_kohli.jpg",
-    "origin": "India",
-    "playerType": "Batter",
-    "bowlingStyle": "Right-arm medium",
-    "battingStyle": "Right-hand",
-    "price": 800
-  },
-  {
-    "playerName": "MS Dhoni",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/MS_Dhoni.jpg",
-    "origin": "India",
-    "playerType": "Wicket-Keeper Batter",
-    "bowlingStyle": "Right-arm medium",
-    "battingStyle": "Right-hand",
-    "price": 750
-  },
-  {
-    "playerName": "Steve Smith",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Steve_Smith_Cricketer.jpg",
-    "origin": "Australia",
-    "playerType": "Batter",
-    "bowlingStyle": "Right-arm leg break",
-    "battingStyle": "Right-hand",
-    "price": 650
-  },
-  {
-    "playerName": "David Warner",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Davidwarner.jpg",
-    "origin": "Australia",
-    "playerType": "Batter",
-    "bowlingStyle": "Right-arm leg break",
-    "battingStyle": "Left-hand",
-    "price": 650
-  },
-  {
-    "playerName": "Pat Cummins",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Pat_Cummins.jpg",
-    "origin": "Australia",
-    "playerType": "Bowler",
-    "bowlingStyle": "Right-arm fast",
-    "battingStyle": "Right-hand",
-    "price": 750
-  },
-  {
-    "playerName": "Mitchell Starc",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Mitchell_Starc.jpg",
-    "origin": "Australia",
-    "playerType": "Bowler",
-    "bowlingStyle": "Left-arm fast",
-    "battingStyle": "Left-hand",
-    "price": 700
-  },
-  {
-    "playerName": "Ben Stokes",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben_Stokes.jpg",
-    "origin": "England",
-    "playerType": "All-Rounder",
-    "bowlingStyle": "Left-arm fast-medium",
-    "battingStyle": "Left-hand",
-    "price": 750
-  },
-  {
-    "playerName": "Joe Root",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_root.jpg",
-    "origin": "England",
-    "playerType": "Batter",
-    "bowlingStyle": "Right-arm off break",
-    "battingStyle": "Right-hand",
-    "price": 650
-  },
-  {
-    "playerName": "Harry Brook",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry_Brook_County_cricket_cropped.jpg",
-    "origin": "England",
-    "playerType": "Batter",
-    "bowlingStyle": "Right-arm medium",
-    "battingStyle": "Right-hand",
-    "price": 550
-  },
-  {
-    "playerName": "Hardik Pandya",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Hardik_Pandya_in_PMO_New_Delhi.jpg",
-    "origin": "India",
-    "playerType": "All-Rounder",
-    "bowlingStyle": "Right-arm fast-medium",
-    "battingStyle": "Right-hand",
-    "price": 700
-  },
-  {
-    "playerName": "Shubman Gill",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Shubman_Gill.jpg",
-    "origin": "India",
-    "playerType": "Batter",
-    "bowlingStyle": "Right-arm off break",
-    "battingStyle": "Right-hand",
-    "price": 600
-  },
-  {
-    "playerName": "Yashasvi Jaiswal",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Yashasvi_Jaiswal.jpg",
-    "origin": "India",
-    "playerType": "Batter",
-    "bowlingStyle": "Right-arm leg break",
-    "battingStyle": "Left-hand",
-    "price": 550
-  },
-  {
-    "playerName": "Mohammad Rizwan",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammad_Rizwan.png",
-    "origin": "Pakistan",
-    "playerType": "Wicket-Keeper Batter",
-    "bowlingStyle": "Right-arm medium",
-    "battingStyle": "Right-hand",
-    "price": 550
-  },
-  {
-    "playerName": "Ravichandran Ashwin",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Ravichandran_Ashwin.jpg",
-    "origin": "India",
-    "playerType": "Bowler",
-    "bowlingStyle": "Right-arm off break",
-    "battingStyle": "Right-hand",
-    "price": 500
-  },
-  {
-    "playerName": "Kuldeep Yadav",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Kuldeep_Yadav.jpg",
-    "origin": "India",
-    "playerType": "Bowler",
-    "bowlingStyle": "Left-arm wrist spin",
-    "battingStyle": "Left-hand",
-    "price": 450
-  },
-  {
-    "playerName": "Kagiso Rabada",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/KAGISO_RABADA_(15519760378).jpg",
-    "origin": "South Africa",
-    "playerType": "Bowler",
-    "bowlingStyle": "Right-arm fast",
-    "battingStyle": "Right-hand",
-    "price": 650
-  },
-  {
-    "playerName": "Quinton de Kock",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/QUINTON_DE_KOCK_(15085160584).jpg",
-    "origin": "South Africa",
-    "playerType": "Wicket-Keeper Batter",
-    "bowlingStyle": "Right-arm medium",
-    "battingStyle": "Left-hand",
-    "price": 600
-  },
-  {
     "playerName": "Mushfiqur Rahim",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Mushfiqur_Rahim_2018_(cropped).jpg",
+    "playerImg": "https://tinyurl.com/3src7k56",
     "origin": "Bangladesh",
     "playerType": "Wicket-Keeper Batter",
     "bowlingStyle": "Right-arm medium",
@@ -163,7 +10,7 @@
   },
   {
     "playerName": "Liton Das",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Liton_Das_(2).jpg",
+    "playerImg": "https://tinyurl.com/2p9nw6f6",
     "origin": "Bangladesh",
     "playerType": "Wicket-Keeper Batter",
     "bowlingStyle": "Right-arm medium",
@@ -172,7 +19,7 @@
   },
   {
     "playerName": "Mehidy Hasan Miraz",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Mehidy_Hasan_Miraz_(1).jpg",
+    "playerImg": "https://tinyurl.com/3t9svtzc",
     "origin": "Bangladesh",
     "playerType": "All-Rounder",
     "bowlingStyle": "Right-arm off break",
@@ -181,7 +28,7 @@
   },
   {
     "playerName": "Mustafizur Rahman",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Mustafizur_Rahman_on_Dhaka_2018_(5).jpg",
+    "playerImg": "https://tinyurl.com/2wenm8fd",
     "origin": "Bangladesh",
     "playerType": "Bowler",
     "bowlingStyle": "Left-arm fast-medium",
@@ -190,7 +37,7 @@
   },
   {
     "playerName": "Soumya Sarkar",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Soumya_Sarkar_(1).jpg",
+    "playerImg": "https://tinyurl.com/4xj7hrhx",
     "origin": "Bangladesh",
     "playerType": "All-Rounder",
     "bowlingStyle": "Right-arm medium",
@@ -199,11 +46,164 @@
   },
   {
     "playerName": "Taskin Ahmed",
-    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Taskin_Ahmed_in_2024_(cropped).jpg",
+    "playerImg": "https://tinyurl.com/p5n8y8mv",
     "origin": "Bangladesh",
     "playerType": "Bowler",
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
     "price": 500
+  },
+    {
+    "playerName": "Virat Kohli",
+    "playerImg": "https://shorturl.at/upt12",
+    "origin": "India",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 800
+  },
+  {
+    "playerName": "MS Dhoni",
+    "playerImg": "https://shorturl.at/c27H1",
+    "origin": "India",
+    "playerType": "Wicket-Keeper Batter",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 750
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerImg": "https://tinyurl.com/bd2772ha",
+    "origin": "Australia",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Right-hand",
+    "price": 650
+  },
+  {
+    "playerName": "David Warner",
+    "playerImg": "https://tinyurl.com/3dwr3nzv",
+    "origin": "Australia",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Left-hand",
+    "price": 650
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerImg": "https://tinyurl.com/5xmem63v",
+    "origin": "Australia",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 750
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerImg": "https://tinyurl.com/myk3d52s",
+    "origin": "Australia",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm fast",
+    "battingStyle": "Left-hand",
+    "price": 700
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerImg": "https://tinyurl.com/42j448kw",
+    "origin": "England",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Left-arm fast-medium",
+    "battingStyle": "Left-hand",
+    "price": 750
+  },
+  {
+    "playerName": "Joe Root",
+    "playerImg": "https://tinyurl.com/bdcdzah9",
+    "origin": "England",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand",
+    "price": 650
+  },
+  {
+    "playerName": "Harry Brook",
+    "playerImg": "https://tinyurl.com/yc5fw8wt",
+    "origin": "England",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 550
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "playerImg": "https://tinyurl.com/82zmfksa",
+    "origin": "India",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-arm fast-medium",
+    "battingStyle": "Right-hand",
+    "price": 700
+  },
+  {
+    "playerName": "Shubman Gill",
+    "playerImg": "https://tinyurl.com/ch6bb8pb",
+    "origin": "India",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand",
+    "price": 600
+  },
+  {
+    "playerName": "Yashasvi Jaiswal",
+    "playerImg": "https://tinyurl.com/3v5mrmjs",
+    "origin": "India",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Left-hand",
+    "price": 550
+  },
+  {
+    "playerName": "Mohammad Rizwan",
+    "playerImg": "https://tinyurl.com/hnwdjkjf",
+    "origin": "Pakistan",
+    "playerType": "Wicket-Keeper Batter",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 550
+  },
+  {
+    "playerName": "Ravichandran Ashwin",
+    "playerImg": "https://tinyurl.com/2s3h93nk",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand",
+    "price": 500
+  },
+  {
+    "playerName": "Kuldeep Yadav",
+    "playerImg": "https://tinyurl.com/jsktvkrp",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm wrist spin",
+    "battingStyle": "Left-hand",
+    "price": 450
+  },
+  {
+    "playerName": "Kagiso Rabada",
+    "playerImg": "https://tinyurl.com/3zcbt3zh",
+    "origin": "South Africa",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 650
+  },
+  {
+    "playerName": "Quinton de Kock",
+    "playerImg": "https://tinyurl.com/artxm9hk",
+    "origin": "South Africa",
+    "playerType": "Wicket-Keeper Batter",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 600
   }
 ]
